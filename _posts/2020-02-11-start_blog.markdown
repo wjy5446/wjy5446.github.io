@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - info
-star: true
+star: false
 category: blog
 author: wjy5446
 description: Markdown summary with different options
