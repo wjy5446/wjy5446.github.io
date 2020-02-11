@@ -8,7 +8,7 @@ tag:
 - info
 star: false
 category: blog
-author: wjy5446
+author: whale
 description: Markdown summary with different options
 ---
 
