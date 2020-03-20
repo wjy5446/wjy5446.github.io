@@ -1,0 +1,15 @@
+---
+title: "아바타 개발자가 본 아바타 관련 기술 현황"
+layout: post
+date: 2020-02-15 10:57
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- info
+star: true
+category: blog
+author: whale
+description: Markdown summary with different options
+---
+
+# 아바타는 누구인가?
