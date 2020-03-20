@@ -30,7 +30,7 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: whaledev # enter this from your disqus account
+  shortname: whjy5446 # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
@@ -56,7 +56,7 @@ email: whaledev.yoon@gmail.com
 authors:
     whale:
         name: JaeYoung Yoon
-        bio: 가즈아~~~!
+        bio: 이것 저것 좋아하는 아재 1인
         external-image: false
         picture: assets/images/profile.jpg
         twitter: whaledev_yoon
@@ -64,7 +64,7 @@ authors:
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
