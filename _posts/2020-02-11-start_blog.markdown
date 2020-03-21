@@ -4,11 +4,10 @@ layout: post
 date: 2020-02-11 10:57
 image: /assets/images/markdown.jpg
 headerImage: false
-project: true
 tag:
 - info
 star: false
-category: blog
+category: papers
 author: whale
 description: Markdown summary with different options
 ---
