@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - info
 star: false
-category: papers
+category: blog
 author: whale
 description: Markdown summary with different options
 ---
