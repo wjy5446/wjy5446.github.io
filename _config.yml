@@ -31,7 +31,7 @@ permalink: /:title/
 # if you don't want comments in your posts, leave categories empty
 disqus:
   shortname: wjy5446 # enter this from your disqus account
-  categories: [blog, project] # only show disqus for posts that have these categories
+  categories: [blog, project, papers] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
 facebook: jaeyoung.yoon.940
@@ -87,7 +87,7 @@ show-tags: true
 related: true
 
 # Display links for next and previous posts for the specified categories
-post-advance-links: [blog]
+post-advance-links: [blog, papers]
 
 # show author block at the end of a post ?
 show-author: true
